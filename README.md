@@ -1,5 +1,17 @@
 # ReactAuthVerify
 
+Video Referred - https://www.youtube.com/watch?v=T6rElSLldyc&t=2s
+
+A MERN stack project that includes features for email verification, password reset, and email notifications for signup and login. Follow the steps below to get the project up and running on your local machine.
+
+> Prerequisites
+
+**Ensure you have the following installed**:
+
+- Node.js (v14 or later recommended)
+- npm (Node Package Manager)
+- MongoDB (locally or a cloud instance)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
